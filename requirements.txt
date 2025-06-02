@@ -1,0 +1,5 @@
+opencv-python
+numpy
+wikipedia
+transformers
+torch
